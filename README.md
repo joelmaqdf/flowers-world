@@ -1,7 +1,7 @@
 # Web Design - Portfolio
-### Cantinho das flores
+### Flowers World
 ##### HTML, CSS, Bootstrap
-*Site desenvolvido para portfolio.*
+*Site developed for portfolio.*
 
 
 ![](https://github.com/joelmaqdf/flowers-world/blob/master/img/cantinho-das-flores.png)
